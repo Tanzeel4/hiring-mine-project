@@ -1,2 +1,2 @@
-"# hiring-mine-project" 
-"# hiring-mine-project" 
+https://tanzeel4.github.io/hiring-mine-project/
+hiringmine-project-rep.netlify.app
