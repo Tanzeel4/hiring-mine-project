@@ -1,0 +1,427 @@
+
+
+
+.navbar-nav{
+    margin-left: 20%;
+    font-style: normal;
+    font-weight: 300;       
+}
+
+.display-1{
+    color: #6610f2;
+    font-weight: 600;
+    font-family: Arial;
+}
+
+.pra-1{
+    font-size: 20px;
+}
+
+.form-control{
+    width: 500px;
+    padding-right: 100;
+}
+
+.btn-2{
+    background-color:#6610f2;
+    color: white;
+    border-radius: 20px;
+    width: 150px;
+    font-weight: 700;
+}
+
+.pro{
+    color: #6610f2;
+    font-weight: 700;
+}
+
+.btn-3{
+    background-color: transparent;
+    color: #6610f2;
+    text-align: center;
+    font-weight: 730;
+    border-radius: 15px;
+}
+
+.textalign{
+    text-align: center;
+    color:#6610f2;
+}
+
+span{
+    color: black;
+    font-weight: 900;
+}
+
+.prox{
+    text-align: center;
+    font-weight: 200;
+}
+
+
+.container-6{
+    background-color: whitesmoke;
+}
+
+.container-7{
+    background-color: whitesmoke;
+    height: 250px;
+    display: flex;
+    justify-content: center;
+    padding-left: 20px;
+}
+
+.card{
+    border: 2px solid #6610f2;
+    border-radius: 20px;
+    height: 200px;
+    margin-left: 10px;
+}
+
+.card-title{
+    color: #6610f2;
+    text-align: center;
+    padding-top: 30px;
+}
+
+.card-text{
+    text-align: center;
+    padding-top: 20px;
+}
+
+.proy{
+    color: gray;
+    text-align: center;
+    font-weight: 200;
+}
+
+.proya{
+    color: gray;
+    text-align: center;
+    font-weight: 200;
+}
+
+.textaligna{
+    text-align: center;
+    color: #6610f2;
+}
+
+.container-8{
+    background-color: whitesmoke;
+}
+.container-9{
+    background-color: whitesmoke;
+    display: flex;
+    justify-content: center;
+}
+
+.textalignb{
+    font-weight: 700;
+    padding-left: 350px;
+    color: #6610f2;
+}
+
+
+.span2{
+    padding-left: 710px;
+    font-size: 40px;
+}
+
+.container-10{
+    background-color: whitesmoke;
+}
+
+.container-11{
+    background-color: whitesmoke;
+    height: 250px;
+    display: flex;
+    justify-content: center;
+    padding-left: 20px;
+}
+
+
+.container-12{
+    background-color: whitesmoke;
+    height: 250px;
+    display: flex;
+    justify-content: center;
+    padding-left: 20px;
+}
+
+.vew-1{
+    color: #6610f2;
+    padding-left: 1360px;
+    margin-bottom: 60px;
+}
+
+.vew-1:hover{
+    cursor: pointer;
+}
+
+.container-13{
+    background-color: whitesmoke;
+    padding-left: 40px;
+    padding-right: 250px;
+    text-align: center;
+}
+
+.container-14{
+    background-color: whitesmoke;
+    display: flex;
+    justify-content: center;
+    padding-left: 20px;
+}
+
+.card-10{
+    background-color: white;
+    border: 2px solid #6610f2;
+    margin-top: 20px;
+    height: 370px;
+    border-radius: 20px;
+}
+
+.card-title1{
+    padding-top: 10px;
+    padding-left: 20px;
+    font-weight: 400;
+}
+
+.img-title{
+    display: flex;
+    justify-content: space-between;
+}
+
+.src{
+    height: 30px;
+    margin-top: 10px;
+    padding-right: 10px;
+}
+
+.cd1{
+    padding-left: 20px;
+    font-weight: 600;
+}
+
+.cd2{
+    padding-left: 20px;
+    color: #6610f2;
+}
+
+.cd3{
+    padding-left: 20px;
+    font-weight: 500;
+}
+
+.cd4{
+    padding-left: 20px;
+    font-weight: 500;
+}
+
+.cd5{
+    padding-left: 20px;
+    font-weight: 500;
+}
+
+.botton{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+    margin-right: 10px;
+}
+
+.btn-4{
+    margin-left: 20px;
+    border-radius: 20px;
+    width: 90px;
+    height: 40px;
+    border: 3px solid #6610f2;
+    background-color: #6610f2;
+    font-weight: 700;
+    color: white;
+}
+
+.week-veiw{
+    display: flex;
+    justify-content: space-between;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+.week{
+    font-weight: 100;
+}
+
+.veiw{
+    font-weight: 100;
+}
+    
+.botton1{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 80px;
+    margin-right: 10px;
+}
+
+.btn-5{
+    margin-left: 20px;
+    border-radius: 20px;
+    width: 90px;
+    height: 40px;
+    border: 3px solid #6610f2;
+    background-color: #6610f2;
+    font-weight: 700;
+    color: white;  
+}
+
+.botton2{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 60px;
+    margin-right: 10px;
+}
+
+.btn-6{
+    margin-left: 20px;
+    border-radius: 20px;
+    width: 90px;
+    height: 40px;
+    border: 3px solid #6610f2;
+    background-color: #6610f2;
+    font-weight: 700;
+    color: white; 
+}
+
+.container-15{
+    background-color: whitesmoke;
+    display: flex;
+    justify-content: center;
+    padding-left: 20px;
+}
+
+.card-11{
+    background-color: white;
+    border: 2px solid #6610f2;
+    height: 370px;
+    margin-top: 20px;
+    border-radius: 20px;
+    
+}
+
+.container-16{
+    background-color: whitesmoke;
+    height: 480px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.who{
+    color: #6610f2;
+}
+
+.btn-7{
+    border: 1px solid #6610f2;
+    border-radius: 20px;
+    width: 150px;
+    font-weight: 500;
+    color: #6610f2;
+}
+
+.Post{
+    color: #6610f2;
+}
+
+.img-fluid{
+    margin-top: 70px;
+}
+
+.line{
+    background-color: #6610f2;
+    width: 3px;
+    height: 150px;
+    margin-top: 150px;
+    
+}
+
+.container-17{
+    background-color: #6610f2;
+    display: flex;
+    height: 470px;
+}
+
+.src-v{
+    padding-left: 100px;
+    padding-top: 100px;
+}
+
+.Connecta{
+    font-weight: 600;
+    padding-left: 100px;
+    padding-right: 550px;
+    color: white;
+}
+
+.Posta{
+    font-weight: 600;
+    padding-right: 100px;
+    padding-top: 150px;
+    color: white;
+}
+
+.popa{
+    font-weight: 600;
+    padding-top: 15px;
+    color: white;
+}
+
+.follow{
+    color: white;
+    padding-left: 100px;
+    padding-top: 70px;
+    font-size: 25px;
+}
+
+.all-logo{
+    font-size: 30px;
+    padding-left: 100px;
+    color: white;
+    
+}
+
+.fa-whatsapp{
+    padding-left: 50px;
+}
+
+.fa-instagram{
+    padding-left: 50px;
+}
+
+.fa-linkedin-in{
+    padding-left: 50px;
+}
+
+
+.line-a{
+    margin-top: 20px;
+    height: 1px;
+    width: 160%;
+    margin-right: 50px;
+    background-color: white;
+}
+
+.Privacy{
+    color: white;
+    padding-left: 700px;
+}
+
+.copy{
+    color: white;
+    padding-left: 570px;
+    
+}
+
+
+
+
+
+
+    
